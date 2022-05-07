@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.thead-dark{
+  background-color: black;
+  color: aliceblue;
+}
+.cnfr:hover{
+  background-color: orange;
+
+}
+.rcvrd:hover{
+  background-color: greenyellow;
+
+}
+.dths:hover{
+  background-color: red;
+
+}
